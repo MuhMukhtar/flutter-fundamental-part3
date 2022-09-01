@@ -1,6 +1,14 @@
 # flutter_fundamental_3
 
-A new Flutter project.
+### Praktikum 1
+![Screenshot Praktikum 1](documentation/ss_prak1.png)
+
+### Praktikum 2
+![Screenshot Praktikum 2](documentation/ss_prak2.png)
+
+### Praktikum 3
+![Screenshot Praktikum 3](documentation/ss_prak3.png)
+
 
 ## Getting Started
 
